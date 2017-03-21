@@ -24,6 +24,9 @@ body {
 .tagline {
     text-shadow: 0 0 10px #000;
     color: #fff;
+    font-size: 58px;
+    margin-top: 170px;
+    margin-left: 200px;
 }
 
 .img-center {
